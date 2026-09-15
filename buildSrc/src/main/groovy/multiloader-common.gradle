@@ -3,7 +3,7 @@ plugins {
 }
 
 base {
-    archivesName = "${mod_id}-${project.name}-${minecraft_version}"
+    archivesName = "${mod_id}-${project.name}"
 }
 
 java {
@@ -59,7 +59,7 @@ processResources {
             'group'                        : project.group, //Else we target the task's group.
             'minecraft_version'            : minecraft_version,
             'neoforge_minecraft_version_range'      : neoforge_minecraft_version_range,
-            'minecraft_version_range'      : minecraft_version_range,
+            'modrinth_minecraft_version_range'      : modrinth_minecraft_version_range,
             'fabric_version'               : fabric_version,
             'fabric_loader_version'        : fabric_loader_version,
             'minecraft_versions_depends'   : minecraft_versions_depends,

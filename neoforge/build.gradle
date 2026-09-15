@@ -68,7 +68,7 @@ modrinth {
     versionNumber = version
     versionType = "release"
     uploadFile = jar
-    gameVersions = minecraft_version_range.split(',') as List
+    gameVersions = modrinth_minecraft_version_range.split(',') as List
     loaders = ["neoforge"]
     dependencies {
 		optional.project "cloth-config"
