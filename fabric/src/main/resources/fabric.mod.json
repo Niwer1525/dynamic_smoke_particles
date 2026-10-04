@@ -4,6 +4,11 @@
     "version": "${version}",
     "name": "${mod_name}",
     "description": "${description}",
+    "contact": {
+        "homepage": "${homepage}",
+        "sources": "${sourcepage}",
+        "issues": "${issuespage}"
+    },
     "authors": [
         "${mod_author}"
     ],
