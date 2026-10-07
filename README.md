@@ -14,4 +14,4 @@ A: Yes! I plan to actively maintain and update the mod for future releases.
 ## Compatible mods
 | Mod | What does this mod do |
 | --- | --- |
-| Ripple | Makes particles interact with entities |
+| [Ripple](https://modrinth.com/mod/ripple) | Makes particles interact with entities |
