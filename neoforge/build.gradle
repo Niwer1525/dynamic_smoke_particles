@@ -72,5 +72,7 @@ modrinth {
     loaders = ["neoforge"]
     dependencies {
 		optional.project "cloth-config"
+
+		optional.project "ripple"
     }
 }

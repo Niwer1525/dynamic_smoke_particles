@@ -68,5 +68,7 @@ modrinth {
 
         optional.project "modmenu"
 		optional.project "cloth-config"
+
+		optional.project "ripple"
     }
 }

@@ -10,3 +10,8 @@ The code is fully open source. It might not be the absolute most perfect impleme
 _Q: Will this be updated to newer versions?_
 
 A: Yes! I plan to actively maintain and update the mod for future releases.
+
+## Compatible mods
+| Mod | What does this mod do |
+| --- | --- |
+| Ripple | Makes particles interact with entities |
